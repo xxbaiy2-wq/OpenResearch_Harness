@@ -1,0 +1,13 @@
+# 虚拟环境
+backend/venv/
+
+# 环境变量（含 API key，绝不能提交）
+.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/

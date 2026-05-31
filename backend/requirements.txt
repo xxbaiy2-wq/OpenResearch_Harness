@@ -1,0 +1,14 @@
+fastapi==0.115.8
+uvicorn==0.34.0
+sqlalchemy==2.0.38
+pymysql==1.1.1
+pydantic-settings==2.7.1
+redis==5.2.1
+pytest==8.3.4
+httpx==0.28.1
+python-dotenv==1.0.1
+feedparser
+cryptography
+openai==1.61.0
+apscheduler
+
